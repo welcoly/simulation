@@ -1,0 +1,11 @@
+Metadata-Version: 1.2
+Name: spycy
+Version: 0.2
+Summary: Small library for auto-currying functions and improved functional application
+Home-page: http://github.com/kanales/spycy
+Author: Ivan Canales
+Author-email: kanales.contact@gmail.com
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3
